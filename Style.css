@@ -1,0 +1,41 @@
+            .color1 {
+                background-color: #4D77FF;
+            }
+            
+            .color2 {
+                background-color: #56BBF1;
+            }
+            
+            .color3 {
+                background-color: #5EE6EB;
+            }
+            
+            .color4 {
+                background-color: #F2FA5A;
+            }
+            
+            .tcolor1 {
+                color: #4D77FF;
+            }
+            
+            .tcolor2 {
+                color: #56BBF1;
+            }
+            
+            .tcolor3 {
+                color: #5EE6EB;
+            }
+            
+            .tcolor4 {
+                color: #F2FA5A;
+            }
+            
+            .tshadow {
+                text-shadow: 2px 2px darkblue;
+            }
+            
+            #bg {
+                background-image: url("BG.png");
+                background-size: auto;
+                padding: 200px;
+            }
